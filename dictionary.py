@@ -188,16 +188,9 @@ def square(length):
 
 # 18. 원 그리기
 # 실행결과 : 터틀함수로 입력 값만큼의 반지름의 길이를 가진 원을 그림.
-def circle(radius):
+def draw(radius):
     r = int(radius)
     t.circle(r)
-
-    a = 0
->>> while a <= n:
-...     a = a +1
-...     print("%s" % want)
-...     if a > n:
-...        break
     
 # 19. 입력 값만큼 특정 문자 출력하기
 # 실행결과 : 특정 문자를 입력 값 만큼의 개수로 출력함.
