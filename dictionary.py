@@ -217,7 +217,7 @@ def ID_card(forward):
         print("주민번호 앞 자리 6자리를 올바르게 입력하셨는지 확인하시오.")
 
 # 21. 성별 확인하기
-# 실행결과 : ID_card-sex(4******) > 여성입니다.
+# 실행결과 : ID_card_sex(4******) > 여성입니다.
 def ID_card_sex(behind):
     if len(behind) == 7:
         if behind[0] == '2' or '4':
