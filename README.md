@@ -1,10 +1,9 @@
 # Dictionary
 likelion
 # 오류내용 + 해결방법
-1. 가변 인자 사용 - 
-
+난수를 생성할 때, 열마다 난수를 다르게 출력하는 방법을 모르겠음. > 해결 X
 # 간단한 소감
-
+이것저것 찾아보면서 공부해야 할 게 정말 많다는 걸 알았다.
 # 참고문서
 1. datetime 모듈 : https://datascienceschool.net/view-notebook/465066ac92ef4da3b0aba32f76d9750a/
 2. 유용한 python 모듈 : http://w3devlabs.net/wp/?p=16873
